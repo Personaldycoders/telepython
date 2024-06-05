@@ -1,0 +1,11 @@
+telethon
+telegraph
+googletrans==4.0.0-rc1
+speedtest-cli
+requests
+aiohttp
+beautifulsoup4
+google
+yt-dlp
+Pillow
+pytesseract
